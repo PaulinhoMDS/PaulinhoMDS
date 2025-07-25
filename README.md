@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo Magalhães 😎
 📚Estudando Python no momento
 😄Pronomes: Ele/Dele
-📧 Email: <a href="CllgCHrgDCNRWMJwqpDJnFvGrwknckBKppjbXFSGhfqWZRnWqSDWmZJwZfKhNgjTkSjpMSFKbDB" target="_blank" rel="external"> Paulomds2004@gmail.com</a>
+📧 Email:Paulomds2004@gmail.com
 
 [![lindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-magalhães-093a9a203/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin_mds/)
