@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Paulo Magalhães 😎
-📚Estudando Python no momento
+📚Estudando Java no momento
 😄Pronomes: Ele/Dele
 📧 Email:Paulomds2004@gmail.com
 
