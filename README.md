@@ -9,7 +9,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulinhoMDS)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulinhoMDS&hide=contribs,prs)
-   ![Image](https://github.com/user-attachments/assets/db9941b2-43b0-40e3-8059-670f9d7a288f)
    ### Linguagens que uso no meu dia a dia
 <div style='display : inline_block'><br/>
 <img aling='center' alt= 'html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
