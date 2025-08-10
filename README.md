@@ -16,6 +16,8 @@
 <img aling='center' alt= 'python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a02be3&height=120&section=footer"/>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulinhoMDS/PaulinhoMDS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulinhoMDS/PaulinhoMDS/output/github-contribution-grid-snake-dark.svg">
