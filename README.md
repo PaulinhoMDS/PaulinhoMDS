@@ -8,7 +8,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045546682319&locale=pt_BR)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulinhoMDS)
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulinhoMDS&hide=contribs,prs)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulinhoMDS&show_icons=true&count_private=true&hide_border=true&title_color=f&icon_color=a02be3&text_color=a02be3&bg_color=0d1117" alt="Jéssica Brito github stats"/> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinhoMDS&layout=compact&hide_border=true&title_color=a02be3&text_color=00bfbf&bg_color=0d1117" />
+
+
    ### Linguagens que uso no meu dia a dia
 <div style='display : inline_block'><br/>
 <img aling='center' alt= 'html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -16,7 +18,7 @@
 <img aling='center' alt= 'python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a02be3&height=120&section=footer"/>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulinhoMDS/PaulinhoMDS/output/github-contribution-grid-snake-dark.svg">
