@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Magalhães 😎
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a02be3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Magalhães;I+study+Information+Systems+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 📚Estudando Java no momento
 😄Pronomes: Ele/Dele
 📧 Email:Paulomds2004@gmail.com
