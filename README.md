@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045546682319&locale=pt_BR)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulinhoMDS)
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulinhoMDS&show_icons=true&count_private=true&hide_border=true&title_color=f&icon_color=a02be3&text_color=a02be3&bg_color=0d1117" alt="Jéssica Brito github stats"/> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinhoMDS&layout=compact&hide_border=true&title_color=a02be3&text_color=00bfbf&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PaulinhoMDS&show_icons=true&count_private=true&hide_border=true&title_color=f&icon_color=a02be3&text_color=a02be3&bg_color=0d1117" alt=" PaulinhoMDS github stats"/> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinhoMDS&layout=compact&hide_border=true&title_color=a02be3&text_color=00bfbf&bg_color=0d1117" />
 
 
    ### Linguagens que uso no meu dia a dia
